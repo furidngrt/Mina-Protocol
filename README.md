@@ -1,13 +1,5 @@
 # Tutorial Mina Protocol Testnet Berincentivized
 
-<p style="font-size:14px" align="right">
-<a href="https://t.me/bangpateng_group" target="_blank">Join Telegram Bang Pateng<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
-</p>
-
-<p align="center">
-  <img height="auto" width="auto" src="https://user-images.githubusercontent.com/38981255/203963845-a591e37b-5c2d-4c20-8f32-94db19c36a05.jpg">
-</p>
-
 ## Referensi
 
 [Dokumen resmi](https://docs.minaprotocol.com/zkapps/tutorials/zkapp-ui-with-react)
