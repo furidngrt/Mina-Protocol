@@ -610,25 +610,21 @@ cd 04-zkapp-browser-ui/ui/
 npm run deploy
 ```
 
-Jika ada Output Error Seperti Ini Abaikan Dan Tunggu Hingga Proses Selesai :
+Tunggu agak Lama!
 
-`./pages/_app.page.tsx
-95:6  Warning: React Hook useEffect has a missing dependency: 'state'. Either include it or remove the dependency array. You can also do a functional update 'setState(s => ...)' if you only need 'state' in the 'setState' call.  react-hooks/exhaustive-deps
-115:6  Warning: React Hook useEffect has a missing dependency: 'state'. Either include it or remove the dependency array. You can also do a functional update 'setState(s => ...)' if you only need 'state' in the 'setState' call.  react-hooks/exhaustive-deps`
-
-1. Nanti Ketika Selesai Anda Akan di Suruh Memasukan Username Github Kalian
+1. Nanti kalo Selesai Akan di Suruh masukin Username Github Kalian
 2. Masukan Password Github Anda, Ingat di Awal Kita Menggunakan Token Acces. Gunakan Itu Lagi Untuk Password Github (Atau Buat Token Acces Baru Lagi)
 
 ## 13 . Untuk Memastikan Apakah Sudah Jalan Dengan Baik
 
-1. Edit ini : `https://<Your-Username>.github.io/04-zkapp-browser-ui/index.html`
+1. Edit ini : `https://username.github.io/04-zkapp-browser-ui/index.html`
 2. Your-Username = Ganti Dengan Nama Github Kalian
 3. Jika Sudah, Paste ke Google Chrome
 4. Jika Berjalan Dengan Baik Maka, Akan Terbuka dan Meminta Aprrove Transaksi dari Wallet Mina Kalian
 
 ## 14. Send Beberapa Transaksi Bebas Kalo Bisa 5 Lebih
 
-1. Buka Link `https://<Your-Username>.github.io/04-zkapp-browser-ui/index.html` Kalian
+1. Buka Link `https://username.github.io/04-zkapp-browser-ui/index.html` Kalian
 2. Connect Wallet Mina nya dan Approve
 3. Refresh Web Tunggu Sampe Muncul Tombol `Send Transaksi` 
 4. Tunggu Muncul Pop Up Approve Transaksi > Isi Fee 1 
