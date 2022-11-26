@@ -52,19 +52,6 @@ curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt install -y nodejs
 ```
 
-Check Versi Node Js
-```
-node -v
-```
-Check Versi NPM 
-```
-npm -v
-```
-Check Versi Git
-```
-git --version
-```
-
 ## 3 . Install Zkapp CLI
 
 ```
